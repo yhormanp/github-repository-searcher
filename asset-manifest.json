@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github-repository-searcher/static/css/main.79d2530c.chunk.css",
+    "main.js": "/github-repository-searcher/static/js/main.a312f96c.chunk.js",
+    "main.js.map": "/github-repository-searcher/static/js/main.a312f96c.chunk.js.map",
+    "runtime~main.js": "/github-repository-searcher/static/js/runtime~main.0dc6e79d.js",
+    "runtime~main.js.map": "/github-repository-searcher/static/js/runtime~main.0dc6e79d.js.map",
+    "static/js/2.43ad69b8.chunk.js": "/github-repository-searcher/static/js/2.43ad69b8.chunk.js",
+    "static/js/2.43ad69b8.chunk.js.map": "/github-repository-searcher/static/js/2.43ad69b8.chunk.js.map",
+    "index.html": "/github-repository-searcher/index.html",
+    "precache-manifest.8b8379f6588516d7284975630f764dca.js": "/github-repository-searcher/precache-manifest.8b8379f6588516d7284975630f764dca.js",
+    "service-worker.js": "/github-repository-searcher/service-worker.js",
+    "static/css/main.79d2530c.chunk.css.map": "/github-repository-searcher/static/css/main.79d2530c.chunk.css.map",
+    "static/media/logo.svg": "/github-repository-searcher/static/media/logo.5d5d9eef.svg"
+  }
+}
