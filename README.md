@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Play with this application
+This application is hosted on github pages through this URL [http://yhormanp.github.io/github-repository-searcher]. feel free to suggest any change or improvement to this application.
+
 ## Available Scripts
 
 In the project directory, you can run:
